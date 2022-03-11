@@ -13,3 +13,4 @@ Creating a new branch is quick AND simple
 >>>>>>> feature1
 Creating a new branch is quick and simplie.
 Creating a new branch dev and making fast forward .
+Creating a new branch dev and making NOT fast forward .
