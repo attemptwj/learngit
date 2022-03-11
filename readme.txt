@@ -6,4 +6,9 @@ establish a new connection with github
 disconnect from github's repository-origin
 Creating a new branch is quick
 Creating a new branch is quick2
+<<<<<<< HEAD
 Creating a new branch is quick & simple.
+=======
+Creating a new branch is quick AND simple
+>>>>>>> feature1
+Creating a new branch is quick and simplie.
